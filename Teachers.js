@@ -1,6 +1,6 @@
-var Login = /** @class */ (function () {
-    function Login() {
+"use strict";
+class Login {
+    constructor() {
         this.data = "Login done";
     }
-    return Login;
-}());
+}

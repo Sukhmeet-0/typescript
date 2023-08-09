@@ -1,3 +1,4 @@
+"use strict";
 // // // // var data:string|number="anil";
 // // // // console.log(data);
 // // // // interface userType{

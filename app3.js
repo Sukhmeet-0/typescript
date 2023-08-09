@@ -1,3 +1,4 @@
+"use strict";
 // // import TeacherLogin from './Teachers'
 // import StudentLogin from './Student'
 // // let teacher =new TeacherLogin();
